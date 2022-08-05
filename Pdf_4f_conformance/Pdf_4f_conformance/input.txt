@@ -1,0 +1,6 @@
+What is PDF/A-4 conformance
+PDF/A is the PDF subset for the long-term preservation of electronic documents. It is an ISO standard since 2005 (PDF/A-1 ISO 19005-1: 2005).
+PDF/A-4 (ISO 19005-4: 2020) is based on latest PDF version 2.0 (ISO 32000-2) and its is evolution of PDF/A-3, which is based on ISO 32000-2 (PDF 1.7). So PDF/A-4 has up-to-date specifications and technologies. So it better uses this latest conformance level for long-term archiving.
+To simplify the PDF standard the PDF/A-4 doesn’t have the -a ("Accessibility"), -u ("Unicode") and -b ("Basic") conformance levels. Instead, it has the following new profiles
+PDF/A-4e: PDF/A-4e ("Engineering") is intended for technical documents and replaces PDF/E. PDF/A-4e supports 3D models, rich media, and 3D annotations as well as embedded files.
+PDF/A-4f: The requirements of PDF/A-3 have also been partially incorporated into PDF/A-4. Thus PDF/A-4f allows the embedding of arbitrary files.
