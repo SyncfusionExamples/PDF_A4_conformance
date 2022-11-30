@@ -1,13 +1,13 @@
 # Create PDF/A-4 Conformance Documents using C#
 
-This repository contains [Syncfusion PDF Library](https://www.syncfusion.com/document-processing/pdf-framework/net) examples that explains how to create PDF/A-4 conformance and convert normal PDF to PDF/A-4 conformance document.
+The Syncfusion [.NET PDF Library](https://www.syncfusion.com/document-processing/pdf-framework/net) allows you to create, edit, and modify PDF documents in your .NET applications.This repository contains examples of creating PDF/A-4 conformance documents and converting PDF to PDF/A-4 document.
 
  Sample name | Description
 ------|------
 [PDF/A-4e](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/Pdf_4e_conformance) |  PDF/A-4e (engineering) is intended for technical documents and replaces PDF/E format. It supports 3D models, rich media, 3D annotations, and embedded files. 
  [PDF/A-4f](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/Pdf_4f_conformance) | PDF/A-4f allows us to embed any files in PDF documents as attachments similar to the PDF/A-3 conformance level. 
-[ PDF to a PDF/A-4](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/Pdf_to_Pdf-A4) |You can easily convert an existing PDF to a PDF/A-4 document for archiving and long-term preservation. 
-[PDF/A-4](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/conformance_creation) | You can easily create a new document with the PDF/A-4 standard. 
+[ PDF to a PDF/A-4](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/Pdf_to_Pdf-A4) |Convert an existing PDF document to PDF/A-4 document for archiving and long-term preservation.
+[PDF/A-4](https://github.com/SyncfusionExamples/PDF_A4_conformance/blob/master/conformance_creation) | Create a new PDF document with PDF/A-4 standard
 
 # How to run the examples
 * Download this project to a location in your disk. 
