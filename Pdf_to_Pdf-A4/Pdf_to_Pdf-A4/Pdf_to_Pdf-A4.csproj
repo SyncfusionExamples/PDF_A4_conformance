@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.8" />
     <PackageReference Include="Syncfusion.Pdf.Imaging.Net.Core" Version="20.2.0.40" />
   </ItemGroup>
 
